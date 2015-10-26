@@ -1,0 +1,1 @@
+custom graph for xy axis. plot graph according to xy point for infinite data with horizontal scrolling and user will be change graph view according to requirement for xy region for displaying lines for xy series.
